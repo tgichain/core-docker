@@ -1,6 +1,6 @@
 # TGIC节点搭建(Docker)
 
-基于`docker-compose`配置
+基于`docker-compose`配置,手动安装请参考[这里](https://github.com/tgichain/core)。
 
 ## 使用前准备
 
